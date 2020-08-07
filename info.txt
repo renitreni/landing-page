@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: MarkoOne-Regular
+font link: https://fonts.google.com/specimen/Marko+One
+font author: Cyreal
+font author site: http://www.cyreal.org/
+Slogan Font: Neuton-Extralight.ttf
+
+icon designer: Eucalyp
+icon designer link: /eucalyp
+        
+{"bg":"#3E3734","icon":"#C67D4E","font":"#ffffff","slogan":"#ffffff"}
+      
